@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+remote_theme : mmistakes/minimal-mistakes
+# 2023 add code-------------------------
 title: JEKYLL X BULMA
 email: whyherro@nativvstudios.com
 author:
