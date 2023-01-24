@@ -59,6 +59,8 @@ contacts:
   #   url: 'https://example.com/@jekyllrb'
   - title: email
     url: mailto:whyherro@nativvstudios.com
+    url      : "an1413.github.io"
+    baseurl  : ""
 
 # Build settings
 theme: minima
